@@ -1,0 +1,40 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "src/components/AccountItem/index.js": true,
+        "src/components/GlobalStyles/index.js": true,
+        "src/components/Layout/components/Header/index.js": true,
+        "src/components/Layout/DefaultLayout/index.js": true,
+        "src/components/Layout/HeaderOnly/index.js": true,
+        "src/components/Popper/index.js": true,
+        "src/pages/Following/index.js": true,
+        "src/pages/Home/index.js": true,
+        "src/pages/Profile/index.js": true,
+        "src/pages/Search/index.js": true,
+        "src/pages/Upload/index.js": true,
+        "src/components/Layout/DefaultLayout/Sidebar/index.js": true,
+        "src/components/Layout/index.js": true,
+        "src/components/Button/index.js": true
+    },
+    "hide-files.files": [
+        "src/components/AccountItem/index.js",
+        "src/components/GlobalStyles/index.js",
+        "src/components/Layout/components/Header/index.js",
+        "src/components/Layout/DefaultLayout/index.js",
+        "src/components/Layout/HeaderOnly/index.js",
+        "src/components/Popper/index.js",
+        "src/pages/Following/index.js",
+        "src/pages/Home/index.js",
+        "src/pages/Profile/index.js",
+        "src/pages/Search/index.js",
+        "src/pages/Upload/index.js",
+        "src/components/Layout/DefaultLayout/Sidebar/index.js",
+        "src/components/Layout/index.js",
+        "src/components/Button/index.js"
+    ]
+}

@@ -1,0 +1,46 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    // padding: 9px 16px;
+    cursor: pointer;
+    margin: 12px;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.info {
+    // flex: 1;
+    margin-left: 12px;
+    display: flex;
+    flex-direction: column;
+    // align-items: center;
+    // gap: 10px;
+    // align-content: space-around;
+}
+
+.name {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin: 0;
+    // margin-bottom: 1px;
+    // line-height: 0;
+    // vertical-align: top;
+}
+
+.check {
+    margin-left: 4px;
+    color: rgb(32, 213, 236);
+}
+
+.username {
+    font-size: 1.3rem;
+    color: rgba(22, 24, 35, 0.75);
+    // line-height: 0;
+    // vertical-align: top;
+    // text-align: start;
+}
